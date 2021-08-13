@@ -1,0 +1,125 @@
+{
+    "main": {
+        "name": "Kumar Gautam",
+        "description": "A competent software developer currently working with Microsoft Corporation as Senior Software Engineer. Possess strong communication, soft, relationship management, analytical and problem-solving skills. Comfortable in interacting with people across hierarchical levels for smooth project execution. Experience of working under cross-cultural and multi-lingual environments.",
+        "image": "profilepic.jpg",
+        "bio": "I build large scale distributed systems which help thousands of businesses run seamlessly in Azure cloud. At my leisure, I like to paint my imaginations on canvas & play guitar.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "gautam714@gmail.com",
+        "phone": "425-979-8098",
+        "github": "https://github.com/gautam714",
+        "address": {
+            "street": "10909 Avondale Rd NE",
+            "city": "Redmond",
+            "state": "WA"
+        },
+        "website": "https://github.com/gautam714",
+        "resumedownload": "https://www.linkedin.com/in/gautam714/",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://facebook.com/gautam714/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com/_kumargautam_",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/gautam714",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/gautam714/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/gautam714",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Birla Institute of Technology, Mesra",
+                "degree": "Bachelor of Engineering",
+                "graduated": "April 2009",
+                "description": "Major in Computer Science & Engineering"
+            }
+        ],
+        "work": [
+            {
+                "company": "Microsoft Corporation",
+                "title": "Senior Software Engineer",
+                "years": "July 2013 - Present",
+                "description": "Worked in Azure Reserved Instances, Office CoreApps & MSN team"
+            },
+            {
+                "company": "Samsung",
+                "title": "Lead Engineer",
+                "years": "August 2009 - July 2013",
+                "description": "Worked in Native Apps team"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Dot Net",
+                "level": "100%"
+            },
+            {
+                "name": "C#",
+                "level": "100%"
+            },
+            {
+                "name": "Android",
+                "level": "50%"
+            },
+            {
+                "name": "TypeScript",
+                "level": "90%"
+            },
+            {
+                "name": "JAVA",
+                "level": "80%"
+            },
+            {
+                "name": "Machine Learning",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "Gryffindor Project",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpg",
+                "url": "https://www.google.com"
+            }
+        ]
+    }
+}
